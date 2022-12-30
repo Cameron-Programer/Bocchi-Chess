@@ -1,2 +1,3 @@
 # This is a work in progress 
-## Not curnty in working condition
+## So many bugs in this code
+The readMe will update when the code is working as expected
