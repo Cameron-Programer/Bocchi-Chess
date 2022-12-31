@@ -1,7 +1,8 @@
 # Bocchi Chesss  
 There is no movement rules yet this is just a chess board  
 ###
-![Screenshot 2022-12-31 195931](https://user-images.githubusercontent.com/76789715/210154934-b06ea462-fbb7-462e-802a-95cfcbe41b5e.png)  
+![image](https://user-images.githubusercontent.com/76789715/210155234-6953fe84-60c1-4496-b330-d7812954edd3.png)  
+
 
 ## Controlls  
 Left Click to select a piece  
