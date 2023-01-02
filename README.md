@@ -10,10 +10,12 @@ Right click or enter/return to deselect the piece
 Esc to reset the board  
    
 ## Requirements:  
-Python ( **[Download](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)** ).  
-Pygame ( **[Download Guide](https://www.pygame.org/wiki/GettingStarted)** )
+- Python ( **[Download](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)** ).  
+- Pygame ( **[Download Guide](https://www.pygame.org/wiki/GettingStarted)** )
 
-
+## TODO:  
+- Add movement rules  
+- Make it possiable to take oponent pieces  
 # Credit: 
 Sprites & insperation from u/CloudsBlockingTheSun 
 
